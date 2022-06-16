@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">WMADCoffeeApp</string>
+    <string name="txtHeaderIndex">Stoke On Trent Coffee</string>
+    <string name="altICoffeeHeader">A cup of coffee</string>
+    <string name="strStokeCoffee">Stoke Coffee</string>
+    <string name="strSubheading">Delicious coffee delivered to your door</string>
+    <string name="strOrderButton">Order Coffee</string>
+    <string name="strLoginButton">Log in</string>
+    <string name="strMenuButton">See our Menu</string>
+    <string name="strLatteLabel">Latte</string>
+    <string name="txtNextButton">Next</string>
+    <string name="txtEspresso">Espresso</string>
+    <string name="txtMocca">Mocca</string>
+    <string name="txtAmericano">Americano</string>
+    <string name="txtEnterQuantity">Enter Quantity</string>
+    <string name="txtPostage">Postage Details</string>
+    <string name="txtOrder">Order</string>
+    <string name="txtConfirm">Confirm Order</string>
+    <string name="strCoffeeAlt">A picture of a cup of coffee</string>
+    <string name="forename">Forename</string>
+    <string name="enter_forename">Enter forename</string>
+    <string name="surname">Surname</string>
+    <string name="enter_surname">Enter surname</string>
+    <string name="telephone_number">Telephone number</string>
+    <string name="enter_telephone_number">Enter telephone number</string>
+    <string name="address">Address</string>
+    <string name="enter_address">Enter address</string>
+    <string name="postcode">Postcode</string>
+    <string name="enter_postcode">Enter postcode</string>
+</resources>
